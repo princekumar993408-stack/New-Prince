@@ -1,2 +1,2 @@
 while True:
-    print("PRINCI")
+    print("AD")
